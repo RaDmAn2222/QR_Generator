@@ -15,6 +15,10 @@ This is a simple QR code generator app that allows you to generate QR codes for 
 3. Click on the "Run" button.
 4. The QR code will be in the directory that you chose.
 
+### Some tips
+The executable file is in the exe file.
+There is also a basic code file named **qrcode_generator.py**. It can be modified for different purposes. 
+
 ## Contributing
 
 Contributions are always welcome! Please feel free to submit a pull request if you have any suggestions or improvements.
